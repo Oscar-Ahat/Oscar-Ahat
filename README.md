@@ -9,8 +9,8 @@ Software Engineering Student🎓 | Interested in backend development with **Pyth
 ## 📂 Projects
 ## 📊 Github status
 ## 📫 Contact
-- email: [taba91026@gmail.com] (mailto:taba91026@gmail.com)
-- Telegram: [@Taha_b81] (https://t.me/Taha_b81)
+- email: [taba91026@gmail.com](mailto:taba91026@gmail.com)
+- Telegram: [@Taha_b81](https://t.me/Taha_b81)
 ---
 ### ⚡
 I am always learning and improving my skills and following the open source community.🚀
