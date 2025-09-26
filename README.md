@@ -6,8 +6,19 @@ Software Engineering Student🎓 | Interested in backend development with **Pyth
 ---
 
 ## 🔧 Skills
+> Programming
+
+**`Python3`** `Django` `Git` `MySQL`
+
+>Others
+
+`Lpic 1` `OWASP TOP 10` `SCRUM`
+
+> A current focus of mine is learning `Docker` and `REST API`
 ## 📂 Projects
+- [Portfolio Website](https://github.com/Oscar-Ahat/portfolio-website)
 ## 📊 Github status
+![Taha's Github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Ahat&show_icons=true&theme=radical)
 ## 📫 Contact
 - email: [taba91026@gmail.com](mailto:taba91026@gmail.com)
 - Telegram: [@Taha_b81](https://t.me/Taha_b81)
